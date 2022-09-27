@@ -12,7 +12,7 @@ Includes an implementation to recommend other movies based on a movie entry's IM
 
 For example, using the file `movies.txt` as the database,
 for a movie with a rating of 7.2 and falling into the genres 'Biography', 'Drama'
-and 'History' the algorithm recommends the following movies:
+and 'History' the algorithm recommends, out of 30 movies, the following ones:
 - A Beautiful Mind
 - The Wind Rises
 - Hacksaw Ridge
